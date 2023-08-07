@@ -2,9 +2,8 @@
 
 Genetic Evolution through Combination of Objects
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gpwwjr/GECO.git   |
-| commit  | db13c93  |
-| systems | GECO |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------|
+| source  | git:https://github.com/gpwwjr/GECO.git |
+| commit  | db13c93                                |
+| systems | geco                                   |
+|---------+----------------------------------------|
